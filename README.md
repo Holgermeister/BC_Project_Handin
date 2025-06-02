@@ -9,9 +9,13 @@ Final version of our Bachelor’s project code.
 This implementation is designed for use on a **1440p monitor** with **Pupil Core eye-tracking glasses**.
 
 ### Prerequisites
-
-1. In the **Pupil Core** software, create a **surface** that fully covers the screen.
-2. Update the following settings in the code:
+1. Install the required python packages:
+   
+```bash
+pip install -r requirements.txt
+```
+3. In the **Pupil Core** software, create a **surface** that fully covers the screen.
+4. Update the following settings in the code:
 
    * In `gaze_listener.py`, change the `surface_name` to match the name of the surface you created in Pupil Core.
    * In `config.py`, ensure the screen resolution is set correctly (e.g., `2560x1440` for 1440p).
