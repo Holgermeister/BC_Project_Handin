@@ -1,0 +1,3 @@
+elapsed_task_time,game_mode,method,participant,start_dist_to_target,task_index,timestamp,useLess
+2.2795724868774414,chase,hotcorner,p6_TRAIN,1452.4190166752844,2,2025-05-20 17:21:52.187692,False
+3.5040879249572754,chase,head_turn,p6_TRAIN,1241.8764028678538,12,2025-05-20 17:22:57.517959,False

@@ -1,0 +1,197 @@
+correct_res,elapsed_task_time,event_type,from_highlighted_to_selected,game_mode,gaze_movement_pr_task,highlighted_cell,index,method,participant,result,target,task_index,timestamp,useLess
+,,highlighted_cell,,chase,200.30094158762876,"(2, 4)",0,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:09.323872,False
+,,highlighted_cell,,chase,645.670977167627,"(2, 3)",1,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:09.838006,False
+,,highlighted_cell,,chase,2853.268672975005,"(3, 3)",2,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:12.913832,False
+,,highlighted_cell,,chase,3327.809658320916,"(3, 4)",3,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:13.654859,False
+,,highlighted_cell,,chase,3957.3612722521707,"(3, 5)",4,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:14.529721,False
+,,highlighted_cell,,chase,4598.840680055769,"(2, 5)",5,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:15.397015,False
+,,highlighted_cell,,chase,5028.547890029387,"(2, 4)",6,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:16.058846,False
+,,highlighted_cell,,chase,5620.859644477225,"(1, 4)",7,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:16.773410,False
+,,highlighted_cell,,chase,6241.5927013347955,"(1, 5)",8,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:17.685073,False
+,,highlighted_cell,,chase,7131.90018401577,"(1, 3)",9,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:18.332149,False
+,,highlighted_cell,,chase,8555.610024153715,"(2, 3)",10,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:21.328419,False
+,,highlighted_cell,,chase,9952.65945452921,"(2, 4)",11,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:23.767432,False
+,,highlighted_cell,,chase,10844.818589320277,"(2, 3)",12,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:24.113325,False
+,,highlighted_cell,,chase,11157.231798760124,"(2, 4)",13,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:24.343117,False
+,,highlighted_cell,,chase,11529.66085123106,"(2, 3)",14,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:24.808784,False
+,,highlighted_cell,,chase,11808.776804847543,"(2, 4)",15,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:25.249027,False
+,,highlighted_cell,,chase,12671.41682829413,"(2, 3)",16,blink,p8_train,,"(2, 3)",0,2025-05-21 16:42:25.878120,False
+True,18.021541833877563,TaskCompleted,1.2503294944763184,chase,13067.89841209471,"(2, 3)",17,blink,p8_train,"(2, 3)","(2, 3)",0,2025-05-21 16:42:27.128450,False
+,,highlighted_cell,,chase,13649.097866515249,"(2, 3)",18,blink,p8_train,,"(3, 3)",1,2025-05-21 16:42:28.631787,False
+,,highlighted_cell,,chase,14360.705127281159,"(3, 3)",19,blink,p8_train,,"(3, 3)",1,2025-05-21 16:42:29.705410,False
+True,3.1420772075653076,TaskCompleted,1.567535638809204,chase,14783.570507397377,"(3, 3)",20,blink,p8_train,"(3, 3)","(3, 3)",1,2025-05-21 16:42:31.272946,False
+,,highlighted_cell,,chase,16499.636915136085,"(1, 5)",21,blink,p8_train,,"(1, 5)",2,2025-05-21 16:42:33.145076,False
+True,2.3026041984558105,TaskCompleted,1.432936668395996,chase,16947.166959054754,"(1, 5)",22,blink,p8_train,"(1, 5)","(1, 5)",2,2025-05-21 16:42:34.578012,False
+,,highlighted_cell,,chase,17522.827898303713,"(2, 4)",23,blink,p8_train,,"(2, 4)",3,2025-05-21 16:42:36.013042,False
+True,1.8527867794036865,TaskCompleted,1.4199130535125732,chase,17847.21083176013,"(2, 4)",24,blink,p8_train,"(2, 4)","(2, 4)",3,2025-05-21 16:42:37.432956,False
+,,highlighted_cell,,chase,18005.142108904176,"(2, 4)",25,blink,p8_train,,"(3, 4)",4,2025-05-21 16:42:38.649976,False
+,,highlighted_cell,,chase,18480.98500450533,"(3, 4)",26,blink,p8_train,,"(3, 4)",4,2025-05-21 16:42:39.059773,False
+True,2.635503053665161,TaskCompleted,2.0107295513153076,chase,19144.709059809495,"(3, 4)",27,blink,p8_train,"(3, 4)","(3, 4)",4,2025-05-21 16:42:41.070503,False
+,,highlighted_cell,,chase,19513.13372349077,"(2, 4)",28,blink,p8_train,,"(1, 4)",5,2025-05-21 16:42:42.290248,False
+,,highlighted_cell,,chase,19933.545553070155,"(1, 4)",29,blink,p8_train,,"(1, 4)",5,2025-05-21 16:42:42.655224,False
+,,highlighted_cell,,chase,23576.243064116843,"(1, 4)",30,blink,p8_train,,"(1, 4)",5,2025-05-21 16:42:45.994204,False
+,,highlighted_cell,,chase,24646.62338014535,"(1, 5)",31,blink,p8_train,,"(1, 4)",5,2025-05-21 16:42:46.899358,False
+False,5.405726432800293,TaskCompleted,0.5801582336425781,chase,24726.982302708875,"(1, 5)",32,blink,p8_train,"(1, 5)","(1, 4)",5,2025-05-21 16:42:47.479516,False
+,,highlighted_cell,,chase,25875.548811261226,"(1, 4)",33,blink,p8_train,,"(1, 3)",6,2025-05-21 16:42:49.385456,False
+,,highlighted_cell,,chase,26514.885702430587,"(1, 3)",34,blink,p8_train,,"(1, 3)",6,2025-05-21 16:42:50.615000,False
+True,3.5110888481140137,TaskCompleted,1.3782191276550293,chase,26972.34822346177,"(1, 3)",35,blink,p8_train,"(1, 3)","(1, 3)",6,2025-05-21 16:42:51.993219,False
+,,highlighted_cell,,chase,27302.792375646422,"(1, 4)",36,blink,p8_train,,"(3, 5)",7,2025-05-21 16:42:53.199318,False
+,,highlighted_cell,,chase,28089.445629694008,"(3, 5)",37,blink,p8_train,,"(3, 5)",7,2025-05-21 16:42:53.857828,False
+,,highlighted_cell,,chase,28544.359746419665,"(3, 4)",38,blink,p8_train,,"(3, 5)",7,2025-05-21 16:42:54.548282,False
+,,highlighted_cell,,chase,29969.224890856705,"(2, 5)",39,blink,p8_train,,"(3, 5)",7,2025-05-21 16:42:55.159328,False
+,,highlighted_cell,,chase,30664.185925978985,"(3, 4)",40,blink,p8_train,,"(3, 5)",7,2025-05-21 16:42:55.625358,False
+,,highlighted_cell,,chase,30816.498077297714,"(3, 3)",41,blink,p8_train,,"(3, 5)",7,2025-05-21 16:42:55.845953,False
+,,highlighted_cell,,chase,31712.82110595746,"(3, 5)",42,blink,p8_train,,"(3, 5)",7,2025-05-21 16:42:56.479399,False
+True,7.536123752593994,TaskCompleted,4.053569316864014,chase,33928.36535910694,"(3, 5)",43,blink,p8_train,"(3, 5)","(3, 5)",7,2025-05-21 16:43:00.532969,False
+,,highlighted_cell,,chase,34837.37512546893,"(2, 3)",44,blink,p8_train,,"(2, 5)",8,2025-05-21 16:43:02.255272,False
+,,highlighted_cell,,chase,36514.23053781725,"(2, 5)",45,blink,p8_train,,"(2, 5)",8,2025-05-21 16:43:03.348830,False
+True,3.1359570026397705,TaskCompleted,1.3250339031219482,chase,37070.08150645303,"(2, 5)",46,blink,p8_train,"(2, 5)","(2, 5)",8,2025-05-21 16:43:04.673864,False
+,,highlighted_cell,,chase,37346.547697214686,"(2, 5)",47,blink,p8_train,,"(2, 3)",9,2025-05-21 16:43:05.877192,False
+,,highlighted_cell,,chase,38114.57122504404,"(2, 4)",48,blink,p8_train,,"(2, 3)",9,2025-05-21 16:43:06.459073,False
+,,highlighted_cell,,chase,38438.84041236212,"(2, 3)",49,blink,p8_train,,"(2, 3)",9,2025-05-21 16:43:06.809901,False
+True,2.5930893421173096,TaskCompleted,1.4603745937347412,chase,38900.631894250684,"(2, 3)",50,blink,p8_train,"(2, 3)","(2, 3)",9,2025-05-21 16:43:08.270276,False
+,,highlighted_cell,,chase,39398.19036132135,"(2, 3)",51,blink,p8_train,,"(3, 3)",10,2025-05-21 16:43:09.989090,False
+,,highlighted_cell,,chase,39674.40445159856,"(3, 3)",52,blink,p8_train,,"(3, 3)",10,2025-05-21 16:43:10.285412,False
+,,highlighted_cell,,chase,41194.263347717366,"(3, 4)",53,blink,p8_train,,"(3, 3)",10,2025-05-21 16:43:12.207703,False
+,,highlighted_cell,,chase,50355.44671836403,"(2, 3)",54,hotcorner,p8_train,,"(3, 3)",10,2025-05-21 16:43:18.246547,False
+,,highlighted_cell,,chase,50636.00206615097,"(3, 3)",55,hotcorner,p8_train,,"(3, 3)",10,2025-05-21 16:43:18.596274,False
+,,highlighted_cell,,chase,51117.946980139,"(2, 4)",56,hotcorner,p8_train,,"(3, 3)",10,2025-05-21 16:43:19.312117,False
+False,10.205363988876343,TaskCompleted,0.16631102561950684,chase,52005.66432355308,"(2, 4)",57,hotcorner,p8_train,"(2, 4)","(3, 3)",10,2025-05-21 16:43:19.478428,False
+,,highlighted_cell,,chase,52863.208064711165,"(2, 4)",58,hotcorner,p8_train,,"(1, 5)",11,2025-05-21 16:43:20.685112,False
+False,0.8337421417236328,TaskCompleted,0.6303637027740479,chase,54314.73873769175,"(2, 4)",59,hotcorner,p8_train,"(2, 4)","(1, 5)",11,2025-05-21 16:43:21.315475,False
+,,highlighted_cell,,chase,55984.9613026952,"(1, 5)",60,hotcorner,p8_train,,"(2, 4)",12,2025-05-21 16:43:22.993933,False
+,,highlighted_cell,,chase,56436.090388252116,"(2, 4)",61,hotcorner,p8_train,,"(2, 4)",12,2025-05-21 16:43:23.378913,False
+True,1.6736335754394531,TaskCompleted,0.6131553649902344,chase,57415.979014209406,"(2, 4)",62,hotcorner,p8_train,"(2, 4)","(2, 4)",12,2025-05-21 16:43:23.992068,False
+,,highlighted_cell,,chase,58482.57050248481,"(2, 4)",63,hotcorner,p8_train,,"(3, 4)",13,2025-05-21 16:43:25.529754,False
+,,highlighted_cell,,chase,58872.25323351557,"(3, 4)",64,hotcorner,p8_train,,"(3, 4)",13,2025-05-21 16:43:26.041319,False
+True,1.606818437576294,TaskCompleted,0.5605740547180176,chase,59859.914107080884,"(3, 4)",65,hotcorner,p8_train,"(3, 4)","(3, 4)",13,2025-05-21 16:43:26.601893,False
+,,highlighted_cell,,chase,60683.245880333416,"(2, 5)",66,hotcorner,p8_train,,"(1, 4)",14,2025-05-21 16:43:27.939311,False
+,,highlighted_cell,,chase,61091.720078254686,"(1, 4)",67,hotcorner,p8_train,,"(1, 4)",14,2025-05-21 16:43:28.220059,False
+True,1.1763088703155518,TaskCompleted,0.5607779026031494,chase,61992.20809725535,"(1, 4)",68,hotcorner,p8_train,"(1, 4)","(1, 4)",14,2025-05-21 16:43:28.780837,False
+,,highlighted_cell,,chase,62674.14582928406,"(1, 4)",69,hotcorner,p8_train,,"(1, 3)",15,2025-05-21 16:43:29.986253,False
+,,highlighted_cell,,chase,63242.74869937703,"(1, 3)",70,hotcorner,p8_train,,"(1, 3)",15,2025-05-21 16:43:30.614119,False
+True,1.278459072113037,TaskCompleted,0.44825315475463867,chase,64342.90897532726,"(1, 3)",71,hotcorner,p8_train,"(1, 3)","(1, 3)",15,2025-05-21 16:43:31.062372,False
+,,highlighted_cell,,chase,65092.495025003576,"(1, 4)",72,hotcorner,p8_train,,"(3, 5)",16,2025-05-21 16:43:32.352986,False
+,,highlighted_cell,,chase,65677.0733229501,"(2, 5)",73,hotcorner,p8_train,,"(3, 5)",16,2025-05-21 16:43:32.831464,False
+,,highlighted_cell,,chase,66126.2920453564,"(2, 5)",74,hotcorner,p8_train,,"(3, 5)",16,2025-05-21 16:43:33.575653,False
+,,highlighted_cell,,chase,66451.54275783048,"(3, 5)",75,hotcorner,p8_train,,"(3, 5)",16,2025-05-21 16:43:33.975403,False
+True,2.490060806274414,TaskCompleted,0.5812537670135498,chase,67374.72665819987,"(3, 5)",76,hotcorner,p8_train,"(3, 5)","(3, 5)",16,2025-05-21 16:43:34.556656,False
+,,highlighted_cell,,chase,68300.86911647646,"(1, 4)",77,hotcorner,p8_train,,"(2, 5)",17,2025-05-21 16:43:36.493168,False
+,,highlighted_cell,,chase,68416.89966602379,"(1, 5)",78,hotcorner,p8_train,,"(2, 5)",17,2025-05-21 16:43:36.756387,False
+,,highlighted_cell,,chase,68596.99098331726,"(1, 4)",79,hotcorner,p8_train,,"(2, 5)",17,2025-05-21 16:43:37.056450,False
+,,highlighted_cell,,chase,69271.63709378535,"(2, 5)",80,hotcorner,p8_train,,"(2, 5)",17,2025-05-21 16:43:38.230299,False
+True,3.1805031299591064,TaskCompleted,0.5106394290924072,chase,70026.92302730466,"(2, 5)",81,hotcorner,p8_train,"(2, 5)","(2, 5)",17,2025-05-21 16:43:38.740939,False
+,,highlighted_cell,,chase,72851.38781125609,"(2, 3)",82,hotcorner,p8_train,,"(2, 3)",18,2025-05-21 16:43:40.371432,False
+True,1.310072422027588,TaskCompleted,0.6838600635528564,chase,73918.37581495306,"(2, 3)",83,hotcorner,p8_train,"(2, 3)","(2, 3)",18,2025-05-21 16:43:41.055292,False
+,,highlighted_cell,,chase,75151.56192517738,"(2, 4)",84,hotcorner,p8_train,,"(3, 3)",19,2025-05-21 16:43:42.589795,False
+,,highlighted_cell,,chase,75573.18628122847,"(2, 3)",85,hotcorner,p8_train,,"(3, 3)",19,2025-05-21 16:43:42.938022,False
+,,highlighted_cell,,chase,75956.51724874954,"(3, 3)",86,hotcorner,p8_train,,"(3, 3)",19,2025-05-21 16:43:43.798524,False
+,,highlighted_cell,,chase,76134.81334807121,"(2, 3)",87,hotcorner,p8_train,,"(3, 3)",19,2025-05-21 16:43:44.094268,False
+False,2.2508773803710938,TaskCompleted,0.21512508392333984,chase,77213.95064231317,"(2, 3)",88,hotcorner,p8_train,"(2, 3)","(3, 3)",19,2025-05-21 16:43:44.309393,False
+,,highlighted_cell,,chase,78014.68700461907,"(2, 4)",89,hotcorner,p8_train,,"(1, 5)",20,2025-05-21 16:43:45.665861,False
+,,highlighted_cell,,chase,78497.60895900692,"(1, 5)",90,hotcorner,p8_train,,"(1, 5)",20,2025-05-21 16:43:45.979875,False
+True,1.1336443424224854,TaskCompleted,0.4654195308685303,chase,79080.17038964805,"(1, 5)",91,hotcorner,p8_train,"(1, 5)","(1, 5)",20,2025-05-21 16:43:46.445295,False
+,,highlighted_cell,,chase,79772.02438526611,"(2, 4)",92,hotcorner,p8_train,,"(2, 4)",21,2025-05-21 16:43:47.749981,False
+True,0.871164083480835,TaskCompleted,0.570171594619751,chase,80668.71362263468,"(2, 4)",93,hotcorner,p8_train,"(2, 4)","(2, 4)",21,2025-05-21 16:43:48.320153,False
+,,highlighted_cell,,chase,81712.44594477369,"(2, 4)",94,head_turn,p8_train,,"(3, 4)",22,2025-05-21 16:43:50.006344,False
+,,highlighted_cell,,chase,91161.8886390478,"(1, 4)",95,head_turn,p8_train,,"(3, 4)",22,2025-05-21 16:44:00.644076,False
+,,highlighted_cell,,chase,92013.23916918483,"(2, 4)",96,head_turn,p8_train,,"(3, 4)",22,2025-05-21 16:44:01.756475,False
+,,highlighted_cell,,chase,93114.37565339393,"(3, 4)",97,head_turn,p8_train,,"(3, 4)",22,2025-05-21 16:44:03.284298,False
+True,15.74507999420166,TaskCompleted,1.784970760345459,chase,106173.15451733553,"(3, 4)",98,head_turn,p8_train,"(3, 4)","(3, 4)",22,2025-05-21 16:44:05.069269,False
+,,highlighted_cell,,chase,107079.33686717089,"(1, 4)",99,head_turn,p8_train,,"(1, 4)",23,2025-05-21 16:44:06.903186,False
+True,3.5889737606048584,TaskCompleted,2.757168769836426,chase,146350.2383871699,"(1, 4)",100,head_turn,p8_train,"(1, 4)","(1, 4)",23,2025-05-21 16:44:09.660355,False
+,,highlighted_cell,,chase,146935.91370416206,"(1, 4)",101,head_turn,p8_train,,"(1, 3)",24,2025-05-21 16:44:11.067435,False
+,,highlighted_cell,,chase,147925.7083459493,"(1, 3)",102,head_turn,p8_train,,"(1, 3)",24,2025-05-21 16:44:12.621766,False
+True,3.2435691356658936,TaskCompleted,1.2866370677947998,chase,148930.99753316733,"(1, 3)",103,head_turn,p8_train,"(1, 3)","(1, 3)",24,2025-05-21 16:44:13.908403,False
+,,highlighted_cell,,chase,150555.31103814812,"(2, 4)",104,head_turn,p8_train,,"(3, 5)",25,2025-05-21 16:44:15.652039,False
+,,highlighted_cell,,chase,153308.93819860212,"(1, 4)",105,head_turn,p8_train,,"(3, 5)",25,2025-05-21 16:44:20.245893,False
+,,highlighted_cell,,chase,157886.8497823884,"(2, 4)",106,head_turn,p8_train,,"(3, 5)",25,2025-05-21 16:44:24.885322,False
+,,highlighted_cell,,chase,159190.47909207252,"(3, 4)",107,head_turn,p8_train,,"(3, 5)",25,2025-05-21 16:44:26.492844,False
+,,highlighted_cell,,chase,159584.8786697143,"(3, 5)",108,head_turn,p8_train,,"(3, 5)",25,2025-05-21 16:44:27.320061,False
+True,15.901592493057251,TaskCompleted,3.4927785396575928,chase,179789.426125795,"(3, 5)",109,head_turn,p8_train,"(3, 5)","(3, 5)",25,2025-05-21 16:44:30.812840,False
+,,highlighted_cell,,chase,183778.49501198882,"(2, 4)",110,head_turn,p8_train,,"(2, 5)",26,2025-05-21 16:44:32.222331,False
+,,highlighted_cell,,chase,190633.22628478456,"(2, 5)",111,head_turn,p8_train,,"(2, 5)",26,2025-05-21 16:44:37.898855,False
+,,highlighted_cell,,chase,191160.62034279405,"(1, 5)",112,head_turn,p8_train,,"(2, 5)",26,2025-05-21 16:44:38.524742,False
+,,highlighted_cell,,chase,191485.2538028105,"(2, 5)",113,head_turn,p8_train,,"(2, 5)",26,2025-05-21 16:44:39.053744,False
+True,11.899460792541504,TaskCompleted,4.661593914031982,chase,210781.65930030376,"(2, 5)",114,head_turn,p8_train,"(2, 5)","(2, 5)",26,2025-05-21 16:44:43.715338,False
+,,highlighted_cell,,chase,212074.41877020328,"(2, 3)",115,head_turn,p8_train,,"(2, 3)",27,2025-05-21 16:44:45.530639,False
+True,3.098956823348999,TaskCompleted,2.2862226963043213,chase,224262.62651905327,"(2, 3)",116,head_turn,p8_train,"(2, 3)","(2, 3)",27,2025-05-21 16:44:47.816862,False
+,,highlighted_cell,,chase,224716.13478118292,"(2, 3)",117,head_turn,p8_train,,"(3, 3)",28,2025-05-21 16:44:49.222066,False
+,,highlighted_cell,,chase,225591.75545376373,"(3, 3)",118,head_turn,p8_train,,"(3, 3)",28,2025-05-21 16:44:50.974325,False
+,,highlighted_cell,,chase,225955.2646669567,"(2, 3)",119,head_turn,p8_train,,"(3, 3)",28,2025-05-21 16:44:51.406437,False
+,,highlighted_cell,,chase,226505.2199568634,"(3, 3)",120,head_turn,p8_train,,"(3, 3)",28,2025-05-21 16:44:52.560970,False
+,,highlighted_cell,,chase,237414.31422125312,"(2, 3)",121,head_turn,p8_train,,"(3, 3)",28,2025-05-21 16:44:55.675733,False
+False,7.6790931224823,TaskCompleted,0.8241164684295654,chase,244711.55496048232,"(2, 3)",122,head_turn,p8_train,"(2, 3)","(3, 3)",28,2025-05-21 16:44:56.499849,False
+,,highlighted_cell,,chase,246275.2187022897,"(2, 4)",123,head_turn,p8_train,,"(1, 5)",29,2025-05-21 16:44:59.079722,False
+,,highlighted_cell,,chase,247456.20551570487,"(1, 5)",124,head_turn,p8_train,,"(1, 5)",29,2025-05-21 16:45:00.035125,False
+True,4.800115346908569,TaskCompleted,2.2681779861450195,chase,252620.0222413404,"(1, 5)",125,head_turn,p8_train,"(1, 5)","(1, 5)",29,2025-05-21 16:45:02.303303,False
+,,highlighted_cell,,chase,256925.1072039992,"(1, 4)",126,head_turn,p8_train,,"(2, 4)",30,2025-05-21 16:45:04.828705,False
+,,highlighted_cell,,chase,259973.24399352793,"(1, 3)",127,head_turn,p8_train,,"(2, 4)",30,2025-05-21 16:45:07.443001,False
+,,highlighted_cell,,chase,260607.85774466224,"(2, 3)",128,head_turn,p8_train,,"(2, 4)",30,2025-05-21 16:45:08.316294,False
+,,highlighted_cell,,chase,262083.3092457579,"(1, 3)",129,head_turn,p8_train,,"(2, 4)",30,2025-05-21 16:45:09.721060,False
+,,highlighted_cell,,chase,265297.26207384374,"(2, 3)",130,head_turn,p8_train,,"(2, 4)",30,2025-05-21 16:45:12.835097,False
+,,highlighted_cell,,chase,271850.998537568,"(2, 4)",131,head_turn,p8_train,,"(2, 4)",30,2025-05-21 16:45:18.559839,False
+True,20.039063930511475,TaskCompleted,4.785975217819214,chase,282772.3701376639,"(2, 4)",132,head_turn,p8_train,"(2, 4)","(2, 4)",30,2025-05-21 16:45:23.345815,False
+,,highlighted_cell,,chase,287103.54362094495,"(2, 4)",133,head_turn,p8_train,,"(3, 4)",31,2025-05-21 16:45:24.765887,False
+,,highlighted_cell,,chase,287676.61989068816,"(3, 4)",134,head_turn,p8_train,,"(3, 4)",31,2025-05-21 16:45:25.660912,False
+,,highlighted_cell,,chase,288233.04516851116,"(2, 4)",135,head_turn,p8_train,,"(3, 4)",31,2025-05-21 16:45:26.192507,False
+,,highlighted_cell,,chase,288827.51821572974,"(3, 4)",136,head_turn,p8_train,,"(3, 4)",31,2025-05-21 16:45:26.803870,False
+True,5.529589414596558,TaskCompleted,3.0746912956237793,chase,304790.2874104449,"(3, 4)",137,head_turn,p8_train,"(3, 4)","(3, 4)",31,2025-05-21 16:45:29.878562,False
+,,highlighted_cell,,chase,308732.8157730049,"(1, 4)",138,head_turn,p8_train,,"(1, 4)",32,2025-05-21 16:45:31.663130,False
+,,highlighted_cell,,chase,325949.8399166544,"(1, 3)",139,head_turn,p8_train,,"(1, 4)",32,2025-05-21 16:45:38.531798,False
+False,8.880801916122437,TaskCompleted,1.2310845851898193,chase,330232.3118598969,"(1, 3)",140,head_turn,p8_train,"(1, 3)","(1, 4)",32,2025-05-21 16:45:39.762883,False
+,,highlighted_cell,,chase,341385.5905815212,"(1, 4)",141,head_turn,p8_train,,"(1, 3)",33,2025-05-21 16:45:43.581882,False
+,,highlighted_cell,,chase,342399.48437790986,"(1, 3)",142,head_turn,p8_train,,"(1, 3)",33,2025-05-21 16:45:44.966732,False
+True,7.157156944274902,TaskCompleted,2.9569485187530518,chase,345697.66534236236,"(1, 3)",143,head_turn,p8_train,"(1, 3)","(1, 3)",33,2025-05-21 16:45:47.923681,False
+,,highlighted_cell,,chase,346685.31032936194,"(2, 5)",144,head_turn,p8_train,,"(3, 5)",34,2025-05-21 16:45:49.764729,False
+,,highlighted_cell,,chase,355869.63291387464,"(3, 5)",145,head_turn,p8_train,,"(3, 5)",34,2025-05-21 16:45:57.868396,False
+True,10.595590591430664,TaskCompleted,1.6543526649475098,chase,357318.68493640254,"(3, 5)",146,head_turn,p8_train,"(3, 5)","(3, 5)",34,2025-05-21 16:45:59.522748,False
+,,highlighted_cell,,chase,358098.5571108744,"(2, 5)",147,head_turn,p8_train,,"(2, 5)",35,2025-05-21 16:46:01.227183,False
+True,3.3235247135162354,TaskCompleted,2.623535394668579,chase,359791.6461736464,"(2, 5)",148,head_turn,p8_train,"(2, 5)","(2, 5)",35,2025-05-21 16:46:03.850718,False
+,,highlighted_cell,,chase,5719.332309145165,"(2, 4)",149,hotcorner,p8_train,,"(2, 3)",36,2025-05-21 16:46:11.337533,False
+False,1.1775572299957275,TaskCompleted,0.2489316463470459,chase,6472.863539588473,"(2, 4)",150,hotcorner,p8_train,"(2, 4)","(2, 3)",36,2025-05-21 16:46:11.586464,False
+,,highlighted_cell,,chase,11484.843699432977,"(1, 5)",151,hotcorner,p8_train,,"(3, 3)",37,2025-05-21 16:46:14.369884,False
+,,highlighted_cell,,chase,13953.877979383029,"(2, 5)",152,hotcorner,p8_train,,"(3, 3)",37,2025-05-21 16:46:16.032862,False
+,,highlighted_cell,,chase,14198.961067698652,"(1, 5)",153,hotcorner,p8_train,,"(3, 3)",37,2025-05-21 16:46:16.299049,False
+False,4.6479268074035645,TaskCompleted,0.9400291442871094,chase,14551.971243022375,"(1, 5)",154,head_turn,p8_train,"(1, 5)","(3, 3)",37,2025-05-21 16:46:17.239078,False
+,,highlighted_cell,,chase,15060.469215838093,"(1, 5)",155,head_turn,p8_train,,"(1, 5)",38,2025-05-21 16:46:19.294480,False
+True,4.539036750793457,TaskCompleted,3.487194299697876,chase,17527.542900995868,"(1, 5)",156,head_turn,p8_train,"(1, 5)","(1, 5)",38,2025-05-21 16:46:22.781674,False
+,,highlighted_cell,,chase,18305.272944594308,"(2, 4)",157,head_turn,p8_train,,"(2, 4)",39,2025-05-21 16:46:24.571298,False
+True,1.949007272720337,TaskCompleted,1.1634361743927002,chase,18831.42603006467,"(2, 4)",158,head_turn,p8_train,"(2, 4)","(2, 4)",39,2025-05-21 16:46:25.734735,False
+,,highlighted_cell,,chase,19959.709076745796,"(3, 4)",159,head_turn,p8_train,,"(3, 4)",40,2025-05-21 16:46:28.003625,False
+,,highlighted_cell,,chase,27289.402559816408,"(2, 4)",160,head_turn,p8_train,,"(3, 4)",40,2025-05-21 16:46:30.551788,False
+,,highlighted_cell,,chase,34358.304731585435,"(3, 4)",161,head_turn,p8_train,,"(3, 4)",40,2025-05-21 16:46:37.544415,False
+,,highlighted_cell,,chase,35970.88316678158,"(3, 3)",162,head_turn,p8_train,,"(3, 4)",40,2025-05-21 16:46:39.713263,False
+,,highlighted_cell,,chase,45919.309343063,"(2, 5)",163,head_turn,p8_train,,"(3, 4)",40,2025-05-21 16:46:43.673068,False
+,,highlighted_cell,,chase,57195.35310204426,"(1, 5)",164,head_turn,p8_train,,"(3, 4)",40,2025-05-21 16:46:50.207067,False
+False,27.003986358642578,TaskCompleted,3.5364673137664795,chase,64682.35065557629,"(1, 5)",165,head_turn,p8_train,"(1, 5)","(3, 4)",40,2025-05-21 16:46:53.743534,False
+,,highlighted_cell,,chase,65559.90498121172,"(1, 4)",166,head_turn,p8_train,,"(1, 4)",41,2025-05-21 16:46:55.813253,False
+,,highlighted_cell,,chase,66798.8740542296,"(2, 4)",167,head_turn,p8_train,,"(1, 4)",41,2025-05-21 16:46:56.773788,False
+False,2.9504246711730957,TaskCompleted,0.9232923984527588,chase,68335.97441583582,"(2, 4)",168,head_turn,p8_train,"(2, 4)","(1, 4)",41,2025-05-21 16:46:57.697081,False
+,,highlighted_cell,,chase,69933.77071250831,"(1, 4)",169,head_turn,p8_train,,"(1, 3)",42,2025-05-21 16:47:00.123101,False
+,,highlighted_cell,,chase,75785.89493115456,"(1, 3)",170,head_turn,p8_train,,"(1, 3)",42,2025-05-21 16:47:26.535873,False
+True,34.012046813964844,TaskCompleted,6.177422761917114,chase,83571.42000896238,"(1, 3)",171,head_turn,p8_train,"(1, 3)","(1, 3)",42,2025-05-21 16:47:32.713296,False
+,,highlighted_cell,,chase,84793.84355716567,"(2, 5)",172,head_turn,p8_train,,"(3, 5)",43,2025-05-21 16:47:34.549220,False
+,,highlighted_cell,,chase,85712.82281493192,"(3, 5)",173,head_turn,p8_train,,"(3, 5)",43,2025-05-21 16:47:35.424892,False
+,,highlighted_cell,,chase,104372.09560606023,"(3, 4)",174,head_turn,p8_train,,"(3, 5)",43,2025-05-21 16:47:48.149991,False
+,,highlighted_cell,,chase,105666.73964201816,"(3, 5)",175,head_turn,p8_train,,"(3, 5)",43,2025-05-21 16:47:49.719935,False
+,,highlighted_cell,,chase,106532.30981657539,"(3, 4)",176,head_turn,p8_train,,"(3, 5)",43,2025-05-21 16:47:51.435766,False
+False,17.751330852508545,TaskCompleted,0.03322029113769531,chase,106532.30981657539,"(3, 4)",177,head_turn,p8_train,"(3, 4)","(3, 5)",43,2025-05-21 16:47:51.468986,False
+,,highlighted_cell,,chase,107443.39492165696,"(2, 4)",178,head_turn,p8_train,,"(2, 5)",44,2025-05-21 16:47:52.942852,False
+False,2.2640907764434814,TaskCompleted,1.79624605178833,chase,109003.70159645437,"(2, 4)",179,head_turn,p8_train,"(2, 4)","(2, 5)",44,2025-05-21 16:47:54.739098,False
+,,highlighted_cell,,chase,110596.66277643714,"(2, 4)",180,head_turn,p8_train,,"(2, 3)",45,2025-05-21 16:47:56.763136,False
+False,2.014965057373047,TaskCompleted,0.9946832656860352,chase,111178.78217148395,"(2, 4)",181,head_turn,p8_train,"(2, 4)","(2, 3)",45,2025-05-21 16:47:57.757819,False
+,,highlighted_cell,,chase,119504.27254017333,"(3, 3)",182,head_turn,p8_train,,"(3, 3)",46,2025-05-21 16:48:04.009763,False
+True,7.747954368591309,TaskCompleted,2.50064754486084,chase,122252.7038435629,"(3, 3)",183,head_turn,p8_train,"(3, 3)","(3, 3)",46,2025-05-21 16:48:06.510411,False
+,,highlighted_cell,,chase,123561.44717359738,"(1, 4)",184,head_turn,p8_train,,"(1, 5)",47,2025-05-21 16:48:08.700344,False
+False,3.3198468685150146,TaskCompleted,2.134345769882202,chase,124857.76422664679,"(1, 4)",185,head_turn,p8_train,"(1, 4)","(1, 5)",47,2025-05-21 16:48:10.834690,False
+,,highlighted_cell,,chase,125978.67682759896,"(2, 4)",186,head_turn,p8_train,,"(2, 4)",48,2025-05-21 16:48:12.778795,False
+True,1.9864184856414795,TaskCompleted,1.0460257530212402,chase,126569.84350472962,"(2, 4)",187,head_turn,p8_train,"(2, 4)","(2, 4)",48,2025-05-21 16:48:13.824821,False
+,,highlighted_cell,,chase,127170.26604319095,"(2, 4)",188,head_turn,p8_train,,"(3, 4)",49,2025-05-21 16:48:15.230623,False
+,,highlighted_cell,,chase,127861.92009909666,"(3, 4)",189,head_turn,p8_train,,"(3, 4)",49,2025-05-21 16:48:15.725786,False
+True,1.5720851421356201,TaskCompleted,0.6754121780395508,chase,128101.16823305527,"(3, 4)",190,head_turn,p8_train,"(3, 4)","(3, 4)",49,2025-05-21 16:48:16.401198,False
+,,highlighted_cell,,chase,128984.45282030194,"(1, 4)",191,head_turn,p8_train,,"(1, 4)",50,2025-05-21 16:48:18.145619,False
+True,1.5619215965270996,TaskCompleted,0.8235182762145996,chase,129340.86088186612,"(1, 4)",192,head_turn,p8_train,"(1, 4)","(1, 4)",50,2025-05-21 16:48:18.969137,False
+,,highlighted_cell,,chase,129613.62782561548,"(1, 4)",193,head_turn,p8_train,,"(1, 3)",51,2025-05-21 16:48:20.389644,False
+,,highlighted_cell,,chase,130173.89972206001,"(1, 3)",194,head_turn,p8_train,,"(1, 3)",51,2025-05-21 16:48:20.875053,False
+True,1.728759765625,TaskCompleted,0.8279142379760742,chase,131677.45775610438,"(1, 3)",195,head_turn,p8_train,"(1, 3)","(1, 3)",51,2025-05-21 16:48:21.702967,False

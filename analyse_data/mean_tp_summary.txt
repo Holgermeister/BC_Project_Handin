@@ -1,0 +1,24 @@
+Method: blink, Game Mode: chase, Number of unique IDs: 6
+Mean TP for Method: blink, Game Mode: chase = 0.678 bits/s
+
+Method: blink, Game Mode: memory, Number of unique IDs: 6
+Mean TP for Method: blink, Game Mode: memory = 0.419 bits/s
+
+Method: head_turn, Game Mode: chase, Number of unique IDs: 6
+Mean TP for Method: head_turn, Game Mode: chase = 0.556 bits/s
+
+Method: head_turn, Game Mode: memory, Number of unique IDs: 6
+Mean TP for Method: head_turn, Game Mode: memory = 0.445 bits/s
+
+Method: hotcorner, Game Mode: chase, Number of unique IDs: 9
+Mean TP for Method: hotcorner, Game Mode: chase = 1.433 bits/s
+
+Method: hotcorner, Game Mode: memory, Number of unique IDs: 9
+Mean TP for Method: hotcorner, Game Mode: memory = 0.809 bits/s
+
+TP for Method: blink, Game Mode: chase = 0.678 bits/s
+TP for Method: blink, Game Mode: memory = 0.419 bits/s
+TP for Method: head_turn, Game Mode: chase = 0.556 bits/s
+TP for Method: head_turn, Game Mode: memory = 0.445 bits/s
+TP for Method: hotcorner, Game Mode: chase = 1.433 bits/s
+TP for Method: hotcorner, Game Mode: memory = 0.809 bits/s

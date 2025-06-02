@@ -1,0 +1,5 @@
+.DS_Store
+myenv/
+__pycache__/
+000_betterTracking/
+venv/

@@ -1,0 +1,7 @@
+method,game_mode,useLess_true_count
+blink,chase,11
+blink,memory,7
+head_turn,chase,17
+head_turn,memory,22
+hotcorner,chase,22
+hotcorner,memory,16
