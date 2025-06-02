@@ -3,8 +3,6 @@ import os
 import sys
 import time
 import pygame
-import subprocess
-import random
 import numpy as np
 
 from config import WIDTH, HEIGHT, BG_COLOR, METHODS, GAME_MODES, NUMBER_OF_SELECTIONS_PR_METHOD, NUMBER_OF_METHODS_PR_TASK
@@ -84,8 +82,7 @@ blink_initial_ts = None
 # === Init Task Manager with game mode ===
 task_manager = TaskManager(WIDTH, HEIGHT, rows=5, cols=10)
 
-random_index = 0
-print(f"[Random] {random_index}")
+
 # === Start Gaze Listener ===
 start_gaze_listener(start_script)
 
@@ -159,7 +156,6 @@ while running:
                 elif time.time() - dwell_start >= dwell_time:
                     if candidate_cell != current_cell:
                         candidate_cell = current_cell
-                        print(f"[Candidate] {candidate_cell}")
             else:
                 dwell_start = time.time()
                 last_candidate = current_cell
@@ -209,7 +205,7 @@ while running:
                 print(f"[Head Turn] Confirmed {confirmed_cell}")
 
         # === Drawing ===
-        task_manager.draw(screen, font, random_index, highlight=confirmed_cell,game_mode=GAME_MODES[game_mode_index])
+        task_manager.draw(screen, font, highlight=confirmed_cell,game_mode=GAME_MODES[game_mode_index])
 
         if timer_started is None:
             timer_started = time.time()
@@ -241,7 +237,7 @@ while running:
                 higligted_cell = candidate_cell
                 logger.log_event("highlighted_cell", 
                          None, 
-                         (task_manager.current_target(game_mode,random_index)),
+                         (task_manager.current_target(game_mode,)),
                          higligted_cell,
                          None,
                          None, 
@@ -265,8 +261,6 @@ while running:
         # draw UI for hotcorners when in use 
         if selection_method == "hotcorner":
             hotcorner_selector.draw(screen, font, gaze_pos=(gx, gy))
-            
-        #pygame.draw.circle(screen, (0, 255, 0), (int(gx), int(gy)), 10)
 
     # === Draw AprilTags ===
     screen.blit(apriltags[0], (0, 0))
@@ -287,7 +281,6 @@ while running:
         screen.blit(font.render(f"Find this image among the other images!", True, (255, 0, 0)), (1770,860))
 
 
-    # skal være her idk why
     pygame.display.flip()
     clock.tick(60)
 
@@ -308,7 +301,7 @@ while running:
         task_time = time.time() - timer_started
         logger.log_event("TaskCompleted", 
                          confirmed_cell, 
-                         (task_manager.current_target(game_mode,random_index)), 
+                         (task_manager.current_target(game_mode,)), 
                          higligted_cell,
                          task_time,f_h_t_s, 
                          acc_gaze_movement, 
@@ -316,7 +309,7 @@ while running:
                          game_mode)
         logger.save()
 
-        target_center = task_manager.current_target(game_mode, random_index)
+        target_center = task_manager.current_target(game_mode)
         target_center_px = (
             target_center[0] * task_manager.cell_width + task_manager.cell_width / 2,
             target_center[1] * task_manager.cell_height + task_manager.cell_height / 2
@@ -326,11 +319,7 @@ while running:
             logger.log_fitts(dist_to_target, task_time, selection_method, game_mode)
         
         dist_to_target = np.linalg.norm(np.array((gx, gy)) - np.array(target_center_px))
-        print(f"[Distance to target] : {dist_to_target}")
-            
-        
-        task_manager.check_match(random_index, confirmed_cell)
-
+        task_manager.check_match(confirmed_cell)
         
         time.sleep(1)
         task_manager.next_task()
@@ -348,7 +337,6 @@ while running:
         time_for_new_task += 1
         acc_gaze_movement = 0
         # Transition screen loop
-        print(f"[tieme for new task] : {time_for_new_task}")
         while True:
             screen.fill(BG_COLOR)
             
@@ -384,5 +372,4 @@ while running:
                 continue
             break
         timer_started = time.time()
-
 pygame.quit()

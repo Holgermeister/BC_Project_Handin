@@ -36,7 +36,7 @@ class TaskManager:
         self.grid_pos_memory_game = []
         self.shuffle_grid_pos_memory_game()
     
-    def current_target(self,game_mode,random_index):
+    def current_target(self,game_mode):
         
         if game_mode == "chase":
             return self.targets[self.index % len(self.targets)] 
@@ -53,7 +53,7 @@ class TaskManager:
     def next_task(self):
         self.index += 1
 
-    def draw(self, screen, font, random_index,game_mode, highlight):
+    def draw(self, screen, font,game_mode, highlight):
         if game_mode == "chase":
             for r in range(1, 4):  # Center rows (1 to 3)
                 for c in range(3, 6):  # Center columns (3 to 5)
@@ -63,7 +63,7 @@ class TaskManager:
                     pygame.draw.rect(screen, (100, 100, 100), rect, 1)
 
                     # Highlight target
-                    if (r, c) == self.current_target(game_mode, random_index):
+                    if (r, c) == self.current_target(game_mode):
                         pygame.draw.rect(screen, (0, 255, 0), rect, 3)
 
                     elif highlight and (r, c) == highlight:
@@ -88,10 +88,10 @@ class TaskManager:
                     pygame.draw.rect(screen, (0, 0, 0), rect)  # Black fill for other cells
                     pygame.draw.rect(screen, (100, 100, 100), rect, 1)
 
-            self.show_to_match(screen,random_index)
+            self.show_to_match(screen)
                 
 
-    def show_to_match(self, screen, random_index):
+    def show_to_match(self, screen):
         index = self.image_target_queue[0]
         rect = pygame.Rect(7 * self.cell_width, 2 * self.cell_height, self.cell_width, self.cell_height)
         screen.blit(self.images[index], rect.topleft)

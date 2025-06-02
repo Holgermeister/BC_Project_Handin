@@ -25,29 +25,6 @@ class HotCornerSelector:
         self.last_candidate_time = None
         self.last_candidate_cell = None
 
-    def update(self, gaze_pos, current_cell, candidate_cell):
-        now = time.time()
-
-        # Step 1: Record a candidate
-        if candidate_cell and candidate_cell != self.last_candidate_cell:
-            self.last_candidate_cell = candidate_cell
-            self.last_candidate_time = now
-
-        # Step 2: Confirm if within hot corner and within time window
-        if self.last_candidate_time and (now - self.last_candidate_time <= self.timeout):
-            for corner in self.hot_corners.values():
-                cx, cy = corner["pos"]
-                dx = gaze_pos[0] - cx
-                dy = gaze_pos[1] - cy
-                dist = (dx ** 2 + dy ** 2) ** 0.5
-
-                if dist < self.trigger_radius and corner["action"] == "select":
-                    self.last_candidate_cell = None
-                    self.last_candidate_time = None
-                    return True, candidate_cell  # Confirm the selection
-
-        return False, None  # No trigger yet
-
     def draw(self, screen, font, gaze_pos=None):
         for corner in self.hot_corners.values():
             x, y = corner["pos"]
@@ -63,21 +40,7 @@ class HotCornerSelector:
             rect = label_surface.get_rect(center=(int(x), int(y)))
             screen.blit(label_surface, rect)
     
-    def check_gaze_trigger(self, gaze_pos):
-        now = time.time()
-        if now - self.last_gaze_time < self.trigger_delay:
-            return None
-        self.last_gaze_time = now
-
-        for key, corner in self.hot_corners.items():
-            cx, cy = corner["pos"]
-            dx = gaze_pos[0] - cx
-            dy = gaze_pos[1] - cy
-            distance = (dx ** 2 + dy ** 2) ** 0.5
-            if distance < self.trigger_radius:  # Slightly larger trigger radius
-                return corner["action"]
-        return None
-
+    
     def process_selection(self, gaze_pos, current_cell, candidate_cell, confirmed_cell):
         """
         Handles selection and cancellation logic internally.

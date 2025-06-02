@@ -1,5 +1,0 @@
-correct_res,elapsed_task_time,event_type,from_highlighted_to_selected,game_mode,gaze_movement_pr_task,highlighted_cell,index,method,participant,result,target,task_index,timestamp,useLess
-,,highlighted_cell,,memory,1885.1494045192433,"(3, 5)",0,blink,holger_needs_images,,"(1, 5)",0,2025-05-22 15:07:29.615395,False
-,,highlighted_cell,,chase,2282.199570058052,"(3, 4)",1,blink,holger_needs_images,,"(3, 5)",0,2025-05-22 15:07:29.897612,False
-,,highlighted_cell,,memory,3247.377765323052,"(3, 3)",2,blink,holger_needs_images,,"(1, 5)",0,2025-05-22 15:07:31.702720,False
-,,highlighted_cell,,memory,3645.740997893226,"(2, 4)",3,blink,holger_needs_images,,"(1, 5)",0,2025-05-22 15:07:32.120347,False
