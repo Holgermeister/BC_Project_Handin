@@ -42,7 +42,6 @@ class TaskManager:
             return self.targets[self.index % len(self.targets)] 
         
         elif game_mode == "memory":
-            print("here")
             current_target_idnex = self.image_target_queue[0]
             for pos, index in self.images_pos_index.items():
                 
