@@ -11,7 +11,6 @@ class TaskManager:
         self.cols = cols
         self.cell_width = width // cols
         self.cell_height = height // rows
-        print(f"cell_width: {self.cell_width}, cell_height: {self.cell_height}")
         self.targets = [
             (r, c) for r in range(1, rows - 1) for c in range(3, cols - 4)
         ]
