@@ -1,4 +1,0 @@
-elapsed_time,event,method,participant,task_index,timestamp
-3.2382075786590576,MethodSwitch,ocular,holgis,0,1744976217.4143665
-4.685784816741943,MethodSwitch,dwell,holgis,0,1744976218.8619437
-5.588384389877319,MethodSwitch,blink,holgis,0,1744976219.7645433
