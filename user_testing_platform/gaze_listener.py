@@ -5,7 +5,7 @@ from msgpack import loads
 import sys
 
 # Shared data accessible from outside
-latest_gaze_data = None  # ((norm_x, norm_y), timestamp)
+latest_gaze_data = None  
 latest_blink_data = None
 latest_fixation_data = None
 latest_pupil_data = None

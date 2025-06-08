@@ -49,7 +49,7 @@ class Logger:
         
         if event_type == "dist_to_center_target":
             entry['correct_res'] = None
-
+        # Logs the entry
         self.events.append(entry)
 
     def log_fitts(self,start_dist_to_target, elapsed_task_time, method, game_mode):

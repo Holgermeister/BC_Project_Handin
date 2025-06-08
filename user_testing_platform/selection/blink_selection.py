@@ -67,4 +67,3 @@ class BlinkSelection:
         self.start_time = None
         self.end_time = None
         self.blink_in_progress = False
-      
