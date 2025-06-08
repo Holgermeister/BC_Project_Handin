@@ -1,0 +1,12 @@
+correct_res,elapsed_task_time,event_type,from_highlighted_to_selected,game_mode,gaze_movement_pr_task,highlighted_cell,index,method,participant,result,target,task_index,timestamp,useLess
+,,highlighted_cell,,memory,121.87993803004889,"(3, 4)",0,blink,test,,"(2, 4)",0,2025-06-04 10:47:44.579075,False
+,,highlighted_cell,,memory,533.9441267710249,"(3, 3)",1,blink,test,,"(2, 4)",0,2025-06-04 10:47:45.615127,False
+,,highlighted_cell,,memory,932.5358286091832,"(2, 4)",2,blink,test,,"(2, 4)",0,2025-06-04 10:47:46.028147,False
+,,highlighted_cell,,chase,4320.796069859701,"(2, 5)",3,hotcorner,test,,"(1, 4)",0,2025-06-04 10:47:48.482986,False
+,,highlighted_cell,,chase,9008.56330431372,"(3, 5)",4,hotcorner,test,,"(1, 4)",0,2025-06-04 10:47:50.427754,False
+,,highlighted_cell,,chase,9413.791525135513,"(3, 4)",5,hotcorner,test,,"(1, 4)",0,2025-06-04 10:47:50.710843,False
+,,highlighted_cell,,chase,10405.071527688486,"(3, 3)",6,hotcorner,test,,"(1, 4)",0,2025-06-04 10:47:52.524686,False
+,,highlighted_cell,,chase,10798.413020923375,"(2, 4)",7,hotcorner,test,,"(1, 4)",0,2025-06-04 10:47:52.926542,False
+,,highlighted_cell,,chase,14204.584442905907,"(2, 5)",8,hotcorner,test,,"(1, 4)",0,2025-06-04 10:47:55.411114,False
+,,highlighted_cell,,chase,18884.708058571017,"(3, 5)",9,hotcorner,test,,"(1, 4)",0,2025-06-04 10:47:57.351789,False
+,,highlighted_cell,,chase,19294.207220854623,"(3, 4)",10,hotcorner,test,,"(1, 4)",0,2025-06-04 10:47:57.669358,False

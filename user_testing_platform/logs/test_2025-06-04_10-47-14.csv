@@ -1,0 +1,3 @@
+correct_res,elapsed_task_time,event_type,from_highlighted_to_selected,game_mode,gaze_movement_pr_task,highlighted_cell,index,method,participant,result,target,task_index,timestamp,useLess
+,,highlighted_cell,,memory,1420.0980306134093,"(3, 5)",0,blink,test,,"(3, 5)",0,2025-06-04 10:47:15.787400,False
+,,highlighted_cell,,memory,1719.4505923364552,"(3, 4)",1,blink,test,,"(3, 5)",0,2025-06-04 10:47:16.074551,False
